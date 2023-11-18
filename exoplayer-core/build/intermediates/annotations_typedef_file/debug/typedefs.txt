@@ -11,6 +11,7 @@ D com/solodroid/android/exoplayer2/mediacodec/MediaCodecRenderer$AdaptationWorka
 D com/solodroid/android/exoplayer2/mediacodec/MediaCodecRenderer$KeepCodecResult
 D com/solodroid/android/exoplayer2/mediacodec/MediaCodecRenderer$ReconfigurationState
 D com/solodroid/android/exoplayer2/mediacodec/MediaCodecRenderer$ReinitializationState
+D com/solodroid/android/exoplayer2/source/hls/HlsSampleStreamWrapper$PrimaryTrackType
 D com/solodroid/android/exoplayer2/text/TextRenderer$ReplacementState
 D com/solodroid/android/exoplayer2/text/ttml/TtmlStyle$OptionalBoolean
 D com/solodroid/android/exoplayer2/text/webvtt/WebvttCssStyle$OptionalBoolean
