@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\Solodroid\libraries\ExoDroid\exoplayer-hls\src\main\AndroidManifest.xml:17:1-66
+INJECTED from E:\Solodroid\libraries\ExoDroid\exoplayer-hls\src\main\AndroidManifest.xml:17:1-66
+INJECTED from E:\Solodroid\libraries\ExoDroid\exoplayer-hls\src\main\AndroidManifest.xml:17:1-66
+	package
+		ADDED from E:\Solodroid\libraries\ExoDroid\exoplayer-hls\src\main\AndroidManifest.xml:17:11-64
+		INJECTED from E:\Solodroid\libraries\ExoDroid\exoplayer-hls\src\main\AndroidManifest.xml
+		INJECTED from E:\Solodroid\libraries\ExoDroid\exoplayer-hls\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Solodroid\libraries\ExoDroid\exoplayer-hls\src\main\AndroidManifest.xml:17:1-66
+uses-sdk
+INJECTED from E:\Solodroid\libraries\ExoDroid\exoplayer-hls\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Solodroid\libraries\ExoDroid\exoplayer-hls\src\main\AndroidManifest.xml
+INJECTED from E:\Solodroid\libraries\ExoDroid\exoplayer-hls\src\main\AndroidManifest.xml
+INJECTED from E:\Solodroid\libraries\ExoDroid\exoplayer-hls\src\main\AndroidManifest.xml
+INJECTED from E:\Solodroid\libraries\ExoDroid\exoplayer-hls\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Solodroid\libraries\ExoDroid\exoplayer-hls\src\main\AndroidManifest.xml
+		ADDED from E:\Solodroid\libraries\ExoDroid\exoplayer-hls\src\main\AndroidManifest.xml
+		INJECTED from E:\Solodroid\libraries\ExoDroid\exoplayer-hls\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Solodroid\libraries\ExoDroid\exoplayer-hls\src\main\AndroidManifest.xml
+		ADDED from E:\Solodroid\libraries\ExoDroid\exoplayer-hls\src\main\AndroidManifest.xml
+		INJECTED from E:\Solodroid\libraries\ExoDroid\exoplayer-hls\src\main\AndroidManifest.xml

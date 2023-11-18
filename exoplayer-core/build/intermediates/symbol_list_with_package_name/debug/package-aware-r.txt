@@ -1,0 +1,1 @@
+com.solodroid.android.exoplayer2.core
