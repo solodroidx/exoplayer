@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 rootProject.name = "ExoDroid"
 include ':demo'
 include ':exoplayer-core'
+include ':exoplayer-hls'
